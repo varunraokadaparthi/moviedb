@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+modules.xml
+moviedb.iml
+vcs.xml
+Project_Default.xml
